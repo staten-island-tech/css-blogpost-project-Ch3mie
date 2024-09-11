@@ -1,0 +1,34 @@
+body {
+    background-color: bisque;
+    border: 100px solid brown, ;
+    border-radius: 0%;
+}
+h1 {
+    text-align: center;
+    font-size: 42px;
+    color: brown;
+    font: 5rem "Comic Sans MS";
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+    font: 2rem "Comic Sans MS";
+}
+
+.picture {
+    width: 300px;
+    length: 150px;
+    background-color: brown;
+    margin: 0 auto; 
+    border: 100px solid bisque;
+    padding: 20%;
+
+}
+
+.sizing {
+    width: 400px;
+    length: 300px;
+    display: block;
+    margin: 0 auto; 
+}
