@@ -15,20 +15,35 @@ h2 {
     color: brown;
     font: 2rem "Comic Sans MS";
 }
+h3 {
+    text-align: center;
+    font-size: 20px;
+    color: bisque;
+    font: 2rem "Comic Sans MS";
+}
 
-.picture {
-    width: 300px;
-    length: 150px;
+.block {
+    width: 700px;
+    length: 200px;
     background-color: brown;
     margin: 0 auto; 
-    border: 100px solid bisque;
-    padding: 20%;
+    border: 55px solid bisque;
 
-}
+}   
 
-.sizing {
-    width: 400px;
-    length: 300px;
+.picture {
+    width: 75%;
     display: block;
-    margin: 0 auto; 
+    margin-left: auto;
+    margin-right: auto;
+    
 }
+.text {
+
+    color: bisque;
+    font: 2rem "Comic Sans MS";
+    font-size: 20px;
+    text-align: center;
+}
+
+
