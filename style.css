@@ -23,7 +23,7 @@ h3 {
     font: bold 2rem "Comic Sans MS";
 }
 
-.block {
+#block {
     width: 700px;
     length: 200px;
     background-color: brown;
