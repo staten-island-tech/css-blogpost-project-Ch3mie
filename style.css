@@ -49,3 +49,10 @@ h3 {
 }
 
 
+#links {
+    color: bisque;
+    font: 2rem "Comic Sans MS";
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
